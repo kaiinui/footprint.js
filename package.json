@@ -1,0 +1,12 @@
+{
+    "name": "footprinting",
+    "version": "0.0.1",
+    "devDependencies": {
+        "watch": "latest"
+    },
+    "scripts": {
+        "dev": "npm run dev:server",
+        "dev:server": "python -m SimpleHTTPServer",
+        "build": ""
+    }
+}
